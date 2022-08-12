@@ -44,9 +44,14 @@ function App() {
             One of the most common questions that employees who get job offers need to deal with is how do they know to
             estimate
             the value of the stock options they got offered, and how to calculate the potential stock value over time.
-            This is indeed a complicated topic and is hard to estimate mathematically, but I did make a simple
-            calculator
-            that will show the average of what type of return you should assume your stock will have.
+            This is a complicated topic and is hard to estimate and predict mathematically, but this calculator
+            models the basic idea around how employees should think about their stock options and what type of
+            return you should assume your stock will have over time.
+          </Typography>
+          <Typography>
+            The basic concept behind this calculator is that the only way to assess how much stock will be worth
+            is by guessing the valuation of the company and understanding how over time the start-up will be diluted
+            by fundraising to get to that valuation.
           </Typography>
           <Typography>
             Note that this calculator ignores the strike price of options. You will first have to deduct
